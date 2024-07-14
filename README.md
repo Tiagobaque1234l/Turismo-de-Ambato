@@ -4,6 +4,7 @@
   </head>
   <body bgcolor ="lightgreen">
     <h1 style ="color:red"; font size ="25"; font family ="verdana"; align ="center">Sitios Turisticos de Ambato</h1>
+    <center><img src ="Ciudad de Ambato.jpg"; widht ="970 px"; height ="250 px"</center>
     <p style ="color:black"; font size ="14"; font family ="arial"; align ="center">Ambato en Ecuador posee calles históricas que conducen a sitios importantes repletos de historia e 
     <br>imágenes memorables en los turistas que lo recorren.
     <br>El recorrido cultural de Ambato se extiende por <strong>La Catedral, la Casa del Portal, la Gobernación, el Colegio La Providencia, la Iglesia Medalla Milagrosa, el Centro Cultural 
